@@ -22,18 +22,6 @@ I believe meaningful products don't always need to be complex. Sometimes, a simp
 
 ---
 
-## 🧠 How I Like to Build
-
-**Observe → Understand → Explore → Build → Learn → Improve**
-
-For me, building a project is not only about writing code.
-
-I enjoy understanding the problem first, thinking about how people might use the solution, experimenting with different approaches, and learning whatever technology is needed to make the idea work.
-
-Each project is an opportunity for me to improve both technically and creatively.
-
----
-
 > **Keep exploring, keep learning, and turn ideas into something useful.**
 
 Thanks for visiting my profile! 👋
