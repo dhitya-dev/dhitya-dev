@@ -20,8 +20,6 @@ I believe meaningful products don't always need to be complex. Sometimes, a simp
 * 🤝 Enjoy learning, collaborating, and exchanging ideas with others
 * 🌏 Based in Indonesia
 
----
-
 > **Keep exploring, keep learning, and turn ideas into something useful.**
 
 Thanks for visiting my profile! 👋
