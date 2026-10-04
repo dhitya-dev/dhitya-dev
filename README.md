@@ -7,7 +7,7 @@ I'm an Informatics graduate from Indonesia who enjoys exploring ideas, solving p
 I like building projects from the ground up - starting from identifying a problem, thinking about the user experience, learning the technologies I need, and turning the idea into something that can actually be used.
 
 I believe meaningful products don't always need to be complex. Sometimes, a simple solution to a real problem can create the most value.
-
+ 
 ---
 
 ## 👨‍💻 About Me
