@@ -19,7 +19,7 @@ I believe meaningful products don't always need to be complex. Sometimes, a simp
 * 🎨 Interested in both **development and user experience**
 * 🤝 Enjoy learning, collaborating, and exchanging ideas with others
 * 🌏 Based in Indonesia
-
+ 
 
 > **Keep exploring, keep learning, and turn ideas into something useful.**
 
