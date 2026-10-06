@@ -23,4 +23,4 @@ I believe meaningful products don't always need to be complex. Sometimes, a simp
 
 > **Keep exploring, keep learning, and turn ideas into something useful.**
 
-Thanks for visiting my profile! 👋
+Thanks for visiting my profile! 👋 
