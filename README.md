@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Arif Aditya 👋 
 
-### Developer · Building Digital Solutions
+### Developer · Building Digital Solutions 
 
 I'm an Informatics graduate from Indonesia who enjoys exploring ideas, solving problems, and turning them into useful digital products.
 
