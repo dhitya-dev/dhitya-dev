@@ -14,7 +14,7 @@ I believe meaningful products don't always need to be complex. Sometimes, a simp
 
 * 💡 Interested in **Product Development, Software Development, and Technology**
 * 🚀 Enjoy building **self-initiated projects** based on everyday problems and ideas
-* 🧩 Like breaking complex problems into simpler and practical solutions
+* 🧩 Like breaking complex problems into simpler and practical solutions 
 * 🌱 Continuously exploring new technologies based on what each project needs
 * 🎨 Interested in both **development and user experience**
 * 🤝 Enjoy learning, collaborating, and exchanging ideas with others
